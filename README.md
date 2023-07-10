@@ -7,5 +7,5 @@ this is the second change that I am doing in the readme file.
 <<<<<<< HEAD
 this is the third change on top of second change.
 =======
-this is the third change on top of second change.
+this is the third change from github ui and my parent is the second change.
 >>>>>>> 4a2dd18d50ee54d1a2d5f31e5f51b01ea83b1770
